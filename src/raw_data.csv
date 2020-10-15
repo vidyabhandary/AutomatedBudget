@@ -1,0 +1,97 @@
+0,leafy vegetables, coriander,,per bunch, 40,0
+1,leafy vegetables, spinach,,per bunch, 30,0
+2,leafy vegetables, fenugreek,,per bunch, 30,0
+3,leafy vegetables, mint leaves,,per bunch, 15,0
+4,leafy vegetables, dill leaves,,per bunch, 25,0
+5,leafy vegetables, spring onion,,per bunch, 35,0
+6,leafy vegetables, red amaranth leaves,,per bunch, 30,0
+7,leafy vegetables, green amaranth ,,per bunch, 30,0
+8,leafy vegetables, tarrow leaves ,,per bunch, 20,0
+9,leafy vegetables, ambatchuka,,per bunch, 30,0
+10,leafy vegetables, lemon grass,,per bunch, 10,0
+11,leafy vegetables, chavali ,,per bunch, 30,0
+12,salad, cucumber,250,gm, 30,0
+13,salad, carrot,250,gm, 30,0
+14,salad, beetroot,250,gm, 30,0
+15,salad, radish,250,gm, 30,0
+16,opgt,onion,,per kg, 60,0
+17,opgt,potato,,per kg, 50,0
+18,opgt,garlic,,per kg, 200,0
+19,opgt,tomato,,per kg, 60,0
+20,others, ginger,250,gm, 50,0
+21,others, lemon,250,gm,4 each,0
+22,others, light green chilli  ,250,gm, 25,0
+23,others, dark green chilli,250,gm, 25,0
+24,others, madras coconut,250,gm, 50 per piece,0
+25,others, sweet corn,250,gm, 20 per piece,0
+26,others, ground nuts,250,gm, 30,0
+27,regular vegetables, capsicum,250,gm, 30,0
+28,regular vegetables, ladys finger,250,gm, 30,0
+29,regular vegetables, brinjal,250,gm, 25,0
+30,regular vegetables, brinjal big,250,gm, 30,0
+31,regular vegetables, drumsticks,250,gm, 40,0
+32,regular vegetables, cluster beans,250,gm, 40,0
+33,regular vegetables, french beans,250,gm, 40,0
+34,regular vegetables, chawali beans,250,gm, 40,0
+35,regular vegetables, tinda,250,gm, 30,0
+36,regular vegetables, cabbage,250,gm, 30,0
+37,regular vegetables, cauliflower,250,gm, 40,0
+38,regular vegetables, bottle guard,250,gm, 25,0
+39,regular vegetables, ridge gourd,250,gm, 30,0
+40,regular vegetables, bitter gourd,250,gm, 30,0
+41,regular vegetables, red pumpkin,250,gm, 30,0
+42,regular vegetables, snake gourd,250,gm, 25,0
+43,regular vegetables, sweet potato ,250,gm, 45,0
+44,regular vegetables, elephant yam,250,gm, 25,0
+45,regular vegetables, paavta,250,gm, 40,0
+46,regular vegetables, paapdi,250,gm, 40,0
+47,regular vegetables, ghosawale,250,gm, 35,0
+48,regular vegetables, green peas ,250,gm, 75,0
+49,sprouts, matki,250,gm, 30,0
+50,sprouts, moong,250,gm, 30,0
+51,sprouts, chawali,250,gm, 30,0
+52,sprouts, chana,250,gm, 30,0
+53,sprouts, masoor,250,gm, 30,0
+54,sprouts, rajma,250,gm, 30,0
+55,sprouts, hirva vatana,250,gm, 30,0
+56,sprouts, kabuli chana,250,gm, 35,0
+57,sprouts, waal,250,gm, 49,0
+58,dairy products,tofu ,0,-, 65 pack,0
+59,dairy products,frozen peas ,0,-, 49,0
+60,dairy products,frozen corn ,0,-, 49,0
+61,dairy products,matka dhai ,0,-, 65,0
+62,fruits,custard apple,,per kilo, 200,0
+63,fruits,apple,,per kilo, 300,0
+64,fruits,nagpur oranges,,per kilo,300,0
+65,fruits,sweet lime,,per kilo,250,0
+66,fruits,guava,,per kilo, 130,0
+67,fruits,banana,,per kilo, 50 dozen,0
+68,fruits,elaichi banana,,per kilo, 90 per dozen,0
+69,fruits,pomegranate,,per kilo,300,0
+70,fruits,papaya,,per kilo, 70 per,0
+71,fruits,imported red pear,,per kilo, 400,0
+72,fruits,regular pear  ,,per kilo, 285,0
+73,fruits,pineapple,,per kilo, 80 per piece,0
+74,fruits,chiku,,per kilo, 130,0
+75,fruits,blueberry,,per kilo, 375 (per 125gm),0
+76,fruits,golden kiwi,,per kilo, 150 (pack of 3),0
+77,fruits,dragon fruit  ,,per kilo, 300,0
+78,fruits,red grapes,,per kilo, 600 imported,0
+79,exotic vegetables,bell pepper,0,-, 110 per pack,0
+80,exotic vegetables,broccoli,0,-, 110,0
+81,exotic vegetables,cherry tomato,0,-, 90,0
+82,exotic vegetables,baby corn,0,-, 45 per pack,0
+83,exotic vegetables,mushroom,0,-, 65per pack,0
+84,exotic vegetables,lolo rosso lettuce,0,-, 95,0
+85,exotic vegetables,iceberg  ,0,-, 90 per piece,0
+86,exotic vegetables,zucchini,0,-, 100 per pack,0
+87,exotic vegetables,purple cabbage,0,-, 70,0
+88,exotic vegetables,indian avacado ,0,-, 100,0
+89,exotic vegetables,imported avacado  ,0,-, 225 per piece,0
+90,exotic vegetables,asparagus  ,0,-, 180,0
+91,exotic vegetables,celery  ,0,-, 150,0
+92,exotic vegetables,basil  ,0,-, 50 for 50gms,0
+93,exotic vegetables,aamla  ,0,-, 35,0
+94,exotic vegetables,moringa leaves  ,0,-, 45 per bunch,0
+95,exotic vegetables,baby potato  ,0,-, 35,0
+96,exotic vegetables,peeled garlic  ,0,-, 75,0
