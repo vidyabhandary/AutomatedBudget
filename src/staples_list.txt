@@ -1,0 +1,5 @@
+coriander,fenugreek,onion,potato,tomato,cauliflower
+spinach,cucumber,capsicum,ladys finger,brinjal,french beans,chawali beans,paavta,sweet lime
+mint leaves,dill leaves,carrot,garlic,ginger,dark green chilli,cluster beans,tinda,waal,papaya,bell pepper,baby corn,mushroom,moringa leaves,baby potato
+spring onion,beetroot,radish,lemon,madras coconut,drumsticks,cabbage,bottle guard,ridge gourd,chawali,chana,masoor,rajma,kabuli chana,nagpur oranges
+red amaranth leaves,green amaranth,tarrow leaves,ambatchuka,lemon grass,chavali,light green chilli,sweet corn,ground nuts,brinjal big,bitter gourd,red pumpkin,snake gourd,sweet potato,elephant yam,paapdi,ghosawale,green peas,matki,moong,hirva vatana,tofu,frozen peas,frozen corn,matka dhai,custard apple,apple,guava,banana,elaichi banana,pomegranate,imported red pear,regular pear,pineapple,chiku,blueberry,golden kiwi,dragon fruit,red grapes,broccoli,cherry tomato,lolo rosso lettuce,iceberg,zucchini,purple cabbage,indian avacado,imported avacado,asparagus,celery,basil,aamla,peeled garlic
